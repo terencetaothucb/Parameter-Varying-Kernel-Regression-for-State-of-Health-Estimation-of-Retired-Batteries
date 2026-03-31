@@ -2,7 +2,7 @@
 
 This repository is organized around the current CDC paper:
 
-`Parameter-Varying Observer Synthesis for Retired Battery Health Estimation under Pulse Testing at Random States of Charge`
+`Parameter-Varying Kernel Regression for State of Health Estimation of Retired Batteries from Pulse Test at Different State of Charge`
 
 ## Environment and requirements
 
